@@ -1,0 +1,2 @@
+application URL 
+https://crdb-ml-stock-predictor-62wpnk39sm7lkrcacup2nn.streamlit.app/#predicted-5-day-return-341-82
